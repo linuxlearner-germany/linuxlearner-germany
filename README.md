@@ -1,162 +1,162 @@
 # 👋 Hi, I'm Paul Rothenburger
 
-💻 IT Trainee | 🐧 Linux (Debian) | 🤖 AI Learning
-📍 Germany
+💻 IT Trainee | Linux / Debian | System Administration  
+⚙️ Focus: Automation, Local AI & Practical Linux Systems  
+🚀 Building real-world Linux systems & tools  
 
 ---
 
-## 🌐 Portfolio
+## 🧠 About Me
 
-🔗 https://linuxlearner-germany.github.io/Website/index.html
-
----
-
-## 🧑‍💻 About Me
-
-* 🎓 IT trainee focusing on **system administration & Linux**
-* 🐧 Specialized in **Debian-based systems**
-* 🤖 Exploring **Artificial Intelligence on Linux**
-* 🚀 Building practical projects to gain real-world experience
+- 🐧 Specialized in Debian-based Linux systems  
+- 🛠️ Hands-on experience with system setup, CLI & automation  
+- 🤖 Working with local AI systems (LLM, OCR, Speech-to-Text)  
+- 📚 Learning by building practical, production-like projects  
 
 ---
 
-## 🐧 Debian & Linux Focus
+## 🧪 Proof of Work
 
-* 🔒 Stable, secure and reliable system
-* 📦 Advanced package management with **APT**
-* ⚙️ Experience with:
-
-  * System setup & configuration
-  * CLI (Bash, Linux tools)
-  * Updates, security & networking
+- 🐧 Built and maintained Debian-based systems  
+- ⚙️ Automated system updates & maintenance using Bash  
+- 🧠 Designed and deployed a local AI stack (LLM + Whisper + WebUI)  
+- 🖥️ Developed a Linux desktop application (C++ / Qt)  
+- 🔐 Basic system security, networking & server setup  
 
 ---
 
-## 🤖 AI + Linux
+## 🚀 Featured Project
 
-* 🧠 Setting up **Python & AI environments on Debian**
-* ⚙️ Working with:
+### 🧩 PDFTool (C++ / Qt)
 
-  * TensorFlow *(learning)*
-  * PyTorch *(learning)*
-* 🖥️ Running AI models locally
-* 🔧 Automating workflows using Bash
+Linux PDF Editor with OCR, Redaction & Annotation  
 
----
+👉 My most advanced project:
+- Built with **Qt 6 + Poppler**
+- Local-first PDF editing workflow  
+- OCR with Tesseract  
+- Annotation & Redaction system  
+- Export pipeline for modified PDFs  
 
-## 📂 Projects
-
-### 🌍 LinuxLearner Website
-
-🔗 https://linuxlearner-germany.github.io/Website/index.html
-📦 https://github.com/linuxlearner-germany/Website
-
-> Personal platform documenting Linux knowledge and commands
+🔗 https://github.com/linuxlearner-germany/PDF_tool  
 
 ---
 
-### 🤖 AI on Debian
+## 🏗️ PDFTool Architecture (simplified)
 
-> Building a local AI environment on Linux
+- Qt 6 → UI Layer  
+- Poppler → PDF Rendering  
+- Tesseract → OCR Engine  
+- qpdf → PDF Processing  
 
-* Python environments & setup
-* Running and testing AI models
-* Combining Linux workflows with AI
-
----
-
-### 🖥️ Debian Server Setup
-
-> Hands-on server project
-
-* System configuration
-* Security basics
-* Package management
+**Workflow:**  
+User → UI → Processing → Export Pipeline  
 
 ---
 
-## 🚧 Currently Working On
+## 🖥️ Projects
 
-* 🤖 AI project on Debian
-* 🐧 Linux system administration
-* ⚙️ Automation with Bash & Python
+### 🐧 Debian_Things
 
----
+Collection of tools & scripts for Debian systems  
 
-## 💻 Terminal
+- Automated update script (APT + cleanup + logging)
+- Bash productivity & aliases
+- System maintenance automation  
 
-```bash
-whoami
-> Paul Rothenburger
-
-uname -a
-> Debian Linux User
-
-skills --list
-> Linux | Debian | Python | AI | Bash
-
-current_focus
-> AI + Linux Projects
-
-goal
-> Linux / DevOps / AI Engineer
-```
+🔗 https://github.com/linuxlearner-germany/Debian_Things  
 
 ---
 
-## 🛠️ Tech Stack
+### 🤖 Local AI Stack (Debian)
 
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
-![Debian](https://img.shields.io/badge/Debian-red?style=for-the-badge\&logo=debian)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
+Fully local AI system without cloud dependency  
 
----
+- Ollama → LLM runtime  
+- Open WebUI → Interface  
+- Whisper → Speech-to-text  
+- PDF analysis pipeline  
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=linuxlearner-germany\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linuxlearner-germany\&layout=compact\&theme=tokyonight)
+🔗 https://github.com/linuxlearner-germany/Local-AI-stuff  
 
 ---
 
-## 🔥 Streak Stats
+### 🌐 Personal Website
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=linuxlearner-germany\&theme=tokyonight)
+Portfolio showcasing projects and Linux knowledge  
 
----
-
-## 👀 Profile Views
-
-![Visitor Count](https://komarev.com/ghpvc/?username=linuxlearner-germany\&style=for-the-badge)
+🔗 https://linuxlearner-germany.github.io/Website/index.html  
 
 ---
 
-## 🐍 Contribution Snake
+## ⚙️ Engineering Focus
 
-<p align="center">
-  <img src="https://github.com/linuxlearner-germany/linuxlearner-germany/blob/output/github-contribution-grid-snake.svg" width="90%" />
-</p>
+- Local-first architecture (no cloud dependency)  
+- Automation over manual workflows  
+- Reproducible Linux setups  
+- Stability & maintainability  
 
 ---
 
-## 🌐 Connect
+## ⚙️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/paul-rothenburger-071002382/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/paul.rxb/)
+- 🐧 Linux (Debian)
+- 💻 Bash / CLI
+- 🐍 Python
+- ⚡ C++ (Qt)
+- 🌐 HTML / CSS / JavaScript
+- 🔧 Git
+
+---
+
+## 🔥 Current Focus
+
+- 🧠 AI on Linux (local models)  
+- ⚙️ Automation with Bash & Python  
+- 🖥️ System administration (Debian servers)  
+- 🚀 Building production-like projects  
 
 ---
 
 ## 🎯 Goals
 
-* 🐧 Become a **Linux / Debian expert**
-* 🤖 Build real **AI projects on Linux**
-* ⚙️ Move towards **DevOps / AI / Sysadmin career**
+- Become a **Linux / DevOps / AI Engineer**  
+- Build advanced Linux-based tools  
+- Work with real infrastructure & automation  
+- Develop powerful local AI systems  
 
 ---
 
-⭐️ *Follow my journey into Linux, Debian & AI*
+## 🐍 Contribution Snake
+
+![snake animation](https://github.com/linuxlearner-germany/linuxlearner-germany/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=linuxlearner-germany&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linuxlearner-germany&layout=compact&theme=dark)
+
+---
+
+## 💼 Open for Opportunities
+
+- Junior Linux / SysAdmin / DevOps roles  
+- Internship / Entry-level positions  
+- Open-source collaboration  
+
+📩 Feel free to connect via LinkedIn  
+
+---
+
+## 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/paul-rothenburger-071002382/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paul.rxb/)
+
+---
+
+⭐ Follow my journey into Linux, Debian & AI
