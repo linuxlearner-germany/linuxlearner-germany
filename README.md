@@ -138,7 +138,11 @@ goal
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/linuxlearner-germany/linuxlearner-germany/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/linuxlearner-germany/linuxlearner-germany/blob/output/github-contribution-grid-snake.svg" width="90%" />
+</p>
 
 ---
 
