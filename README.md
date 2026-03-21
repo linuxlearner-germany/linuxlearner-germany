@@ -7,15 +7,14 @@
 
 ## 🌐 Portfolio
 
-🔗 **Website:**
-https://linuxlearner-germany.github.io/Website/index.html
+🔗 https://linuxlearner-germany.github.io/Website/index.html
 
 ---
 
 ## 🧑‍💻 About Me
 
 * 🎓 IT trainee focusing on **system administration & Linux**
-* 🐧 Strong interest in **Debian-based systems**
+* 🐧 Specialized in **Debian-based systems**
 * 🤖 Exploring **Artificial Intelligence on Linux**
 * 🚀 Building practical projects to gain real-world experience
 
@@ -23,12 +22,12 @@ https://linuxlearner-germany.github.io/Website/index.html
 
 ## 🐧 Debian & Linux Focus
 
-* 🔒 Stable, secure and reliable system (ideal for servers)
+* 🔒 Stable, secure and reliable system
 * 📦 Advanced package management with **APT**
-* ⚙️ Hands-on experience with:
+* ⚙️ Experience with:
 
   * System setup & configuration
-  * CLI (Bash, package management)
+  * CLI (Bash, Linux tools)
   * Updates, security & networking
 
 ---
@@ -40,7 +39,7 @@ https://linuxlearner-germany.github.io/Website/index.html
 
   * TensorFlow *(learning)*
   * PyTorch *(learning)*
-* 🖥️ Running AI models locally on Linux
+* 🖥️ Running AI models locally
 * 🔧 Automating workflows using Bash
 
 ---
@@ -52,27 +51,56 @@ https://linuxlearner-germany.github.io/Website/index.html
 🔗 https://linuxlearner-germany.github.io/Website/index.html
 📦 https://github.com/linuxlearner-germany/Website
 
-> Personal learning platform documenting Linux knowledge and commands
+> Personal platform documenting Linux knowledge and commands
 
 ---
 
 ### 🤖 AI on Debian
 
-> Building a local AI development environment on Linux
+> Building a local AI environment on Linux
 
-* Python setup & virtual environments
-* Running and testing ML models
-* Combining AI workflows with Linux tools
+* Python environments & setup
+* Running and testing AI models
+* Combining Linux workflows with AI
 
 ---
 
 ### 🖥️ Debian Server Setup
 
-> Practical server environment for learning
+> Hands-on server project
 
 * System configuration
 * Security basics
-* Package management & updates
+* Package management
+
+---
+
+## 🚧 Currently Working On
+
+* 🤖 AI project on Debian
+* 🐧 Linux system administration
+* ⚙️ Automation with Bash & Python
+
+---
+
+## 💻 Terminal
+
+```bash
+whoami
+> Paul Rothenburger
+
+uname -a
+> Debian Linux User
+
+skills --list
+> Linux | Debian | Python | AI | Bash
+
+current_focus
+> AI + Linux Projects
+
+goal
+> Linux / DevOps / AI Engineer
+```
 
 ---
 
@@ -93,6 +121,24 @@ https://linuxlearner-germany.github.io/Website/index.html
 ![Stats](https://github-readme-stats.vercel.app/api?username=linuxlearner-germany\&show_icons=true\&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linuxlearner-germany\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=linuxlearner-germany\&theme=tokyonight)
+
+---
+
+## 👀 Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=linuxlearner-germany\&style=for-the-badge)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/linuxlearner-germany/linuxlearner-germany/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
