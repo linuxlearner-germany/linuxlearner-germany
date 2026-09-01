@@ -85,7 +85,7 @@ Fully local AI system without cloud dependency
 
 Portfolio showcasing projects and Linux knowledge  
 
-🔗 https://linuxlearner-germany.github.io/Website/index.html  
+🔗 www.tuxnode.de
 
 ---
 
